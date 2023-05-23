@@ -7,7 +7,7 @@ using FluentValidation.Results;
 using System.Collections.Generic;
 using System.Net;
 
-namespace ApiDDD.Services
+namespace ApiDDD.Application.Services
 {
     public abstract class Service
     {

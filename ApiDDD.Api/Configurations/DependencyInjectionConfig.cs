@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using ApiDDD.Domain.Interfaces;
 using ApiDDD.Application.Interfaces;
-using ApiDDD.Application.Services;
+using ApiDDD.Services;
 using ApiDDD.Data.Repositories;
 
 

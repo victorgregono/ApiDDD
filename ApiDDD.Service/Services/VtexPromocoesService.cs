@@ -1,12 +1,15 @@
-﻿using ApiDDD.Application.Extensions;
-using ApiDDD.Application.Interfaces;
+﻿using AutoMapper;
 using ApiDDD.Domain.Interfaces;
-using AutoMapper;
+using ApiDDD.Application.Extensions;
+using ApiDDD.Application.Interfaces;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace ApiDDD.Services
+namespace ApiDDD.Application.Services
 {
     public  class VtexPromocoesService : Service, IVtexPromocoesService
     {
