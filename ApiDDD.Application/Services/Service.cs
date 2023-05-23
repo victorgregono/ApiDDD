@@ -1,16 +1,11 @@
-﻿using AutoMapper;
-using FluentValidation.Results;
-using ApiDDD.Application.Extensions;
+﻿using ApiDDD.Application.Extensions;
 using ApiDDD.Application.ViewModels;
-using System;
-using System.Collections.Generic;
-
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-using FluentValidation;
 using ApiDDD.Domain.Models;
+using AutoMapper;
+using FluentValidation;
+using FluentValidation.Results;
+using System.Collections.Generic;
+using System.Net;
 
 namespace ApiDDD.Application.Services
 {
