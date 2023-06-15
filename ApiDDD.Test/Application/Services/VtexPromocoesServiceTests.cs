@@ -1,7 +1,7 @@
 ﻿using ApiDDD.Application.Profiles;
-using ApiDDD.Application.Services;
 using ApiDDD.Domain.Interfaces;
 using ApiDDD.Domain.Models;
+using ApiDDD.Services;
 using AutoFixture;
 using AutoMapper;
 using Moq;

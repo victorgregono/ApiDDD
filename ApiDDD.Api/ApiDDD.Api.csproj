@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ApiDDD.Application\ApiDDD.Application.csproj" />
+    <ProjectReference Include="..\ApiDDD.Application\ApiDDD.Service.csproj" />
     <ProjectReference Include="..\ApiDDD.Data\ApiDDD.Data.csproj" />
    <ProjectReference Include="..\ApiDDD.Domain\ApiDDD.Domain.csproj" />
   </ItemGroup>

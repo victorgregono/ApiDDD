@@ -1,8 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using ApiDDD.Domain.Models;
-using ApiDDD.Application.Interfaces;
+﻿using ApiDDD.Application.Interfaces;
 using ApiDDD.Application.ViewModels;
+using ApiDDD.Domain.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
